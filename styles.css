@@ -179,9 +179,9 @@ nav{
 .btn-new {
     padding: 0.7194244604316546vh 1.1510791366906474vh;
     font-size: 4.316546762589928vh; 
-    margin-left: 7.194244604316546vh; 
+    margin-left: 6.194244604316546vh; 
     cursor: pointer; 
-    text-align: centerr;
+    text-align: center;
     transition: 0.5s;
     background-size: 500%;
     color: white;
